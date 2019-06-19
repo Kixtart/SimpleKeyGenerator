@@ -1,0 +1,10 @@
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\bin\Debug\SerialKey Generator.exe.config
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\bin\Debug\SerialKey Generator.exe
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\bin\Debug\SerialKey Generator.pdb
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\bin\Debug\SKGL.dll
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\obj\Debug\SerialKey Generator.csprojResolveAssemblyReference.cache
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\obj\Debug\SerialKey_Generator.Form1.resources
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\obj\Debug\SerialKey_Generator.Properties.Resources.resources
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\obj\Debug\SerialKey Generator.csproj.GenerateResource.Cache
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\obj\Debug\SerialKey Generator.exe
+C:\Users\Лев\Documents\Visual Studio 2012\Projects\SerialKey Generator\SerialKey Generator\obj\Debug\SerialKey Generator.pdb

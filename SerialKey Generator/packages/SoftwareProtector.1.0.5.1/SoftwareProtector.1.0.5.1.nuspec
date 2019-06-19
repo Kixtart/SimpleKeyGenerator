@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SoftwareProtector</id>
+    <version>1.0.5.1</version>
+    <title>Software Protector</title>
+    <authors>Artem Los</authors>
+    <owners>Artem Los</owners>
+    <licenseUrl>http://softwareprotector.codeplex.com/license</licenseUrl>
+    <projectUrl>http://softwareprotector.codeplex.com/</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=softwareprotector&amp;DownloadId=385571&amp;Build=19612</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Software Protector is an open source 100% managed .NET licensing system based on SKGL Project. Generate keys for your software, and validate them using SKGL library in your own project.
+
+To see the online demo, please navigate to http://softwareprotector.clizware.net/Demo.aspx</description>
+    <summary />
+    <releaseNotes>* fixed bug which did not allow to generate a key with machine id 99999
+ * fixed bug when encrypting a key
+ * strong named the assembly
+ * allowed partially trusted callers</releaseNotes>
+    <copyright>Artem Los</copyright>
+    <tags>.NET license key licensing security serial software protection protector</tags>
+  </metadata>
+</package>
